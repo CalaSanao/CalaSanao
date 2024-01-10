@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a student of web application programming
+Full-stack developer currently engaged in ongoing projects. 
+I'm also dedicated to advancing my knowledge in Artificial Intelligence and Big Data through ongoing studies.
+Passionate about technology and actively contributing to the field!
 
 ### Languages and Tools I have used 🛠 
 
